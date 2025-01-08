@@ -8,8 +8,7 @@ Welcome to the **Notes App**! 🎉 This project is your go-to solution for stayi
 
 Key features include a sleek, responsive design that works seamlessly on both mobile and desktop devices, easy note creation with titles and descriptions, and the ability to edit or delete notes as needed. It's simple, intuitive, and perfect for everyone—from students to professionals. ✨  
 
-Ready to give it a try? Follow the steps below to set up the app on your local machine or check out the live demo for a sneak peek! 🚀  
+---
 
---- 
-
-Let me know if you want further tweaks! 😊
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise. 
